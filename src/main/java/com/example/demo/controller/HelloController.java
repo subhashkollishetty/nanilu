@@ -21,7 +21,7 @@ public class HelloController {
     }
     @GetMapping("/fear")
     public String fear() {
-        return "feal to fear>>>";
+        return "feal to >>";
 
     }
 }
