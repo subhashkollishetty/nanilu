@@ -17,14 +17,14 @@ public class HelloController {
     }
     @GetMapping("/nani")
     public String nani() {
-    	return "buddy";
+    	return "budiiiiiiiidy";
     }
     @GetMapping("/fear")
     public String fear() {
-        return "frffffffffffff";
+        return "frffffffffffffffff";
 
     }
     public String goo() {
-    	return "gooodddoo";
+    	return "y";
     }
 }
