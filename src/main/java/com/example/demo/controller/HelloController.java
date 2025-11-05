@@ -15,4 +15,7 @@ public class HelloController {
     public String bello() {
     	return "fefffefee";
     }
+    public String nani() {
+    	return "arey mowa ji";
+    }
 }
