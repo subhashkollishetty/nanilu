@@ -9,13 +9,13 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, World!";
+        return "reddy";
     }
     @GetMapping("/bello")
     public String bello() {
-    	return "fefffefee";
+    	return "reddy";
     }
     public String nani() {
-    	return "arey mowa ji";
+    	return "reddy";
     }
 }
