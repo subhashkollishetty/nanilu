@@ -16,6 +16,6 @@ public class HelloController {
     	return "reddy";
     }
     public String nani() {
-    	return "reddy";
+    	return "buddy";
     }
 }
