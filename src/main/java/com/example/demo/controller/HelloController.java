@@ -21,7 +21,7 @@ public class HelloController {
     }
     @GetMapping("/fear")
     public String fear() {
-        return "empty";
+        return "frffffffffffff";
 
     }
     public String goo() {
