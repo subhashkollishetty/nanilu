@@ -25,6 +25,6 @@ public class HelloController {
 
     }
     public String goo() {
-    	return "gooddooo";
+    	return "yy";
     }
 }
