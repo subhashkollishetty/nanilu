@@ -11,20 +11,5 @@ public class HelloController {
     public String hello() {
         return "reddy";
     }
-    @GetMapping("/bello")
-    public String bello() {
-    	return "reddy";
-    }
-    @GetMapping("/nani")
-    public String nani() {
-    	return "buddy";
-    }
-    @GetMapping("/fear")
-    public String fear() {
-        return "frffffffffffff";
-
-    }
-    public String goo() {
-    	return "gooooo";
-    }
+  
 }
